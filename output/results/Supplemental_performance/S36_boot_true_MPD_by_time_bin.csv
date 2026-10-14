@@ -1,0 +1,6 @@
+"Time_Bin","n","observed_mpd","boot_ci_lower","boot_ci_upper","boot_sd"
+"Late Triassic",15,"1.56626","0.83335","2.06025","0.32652"
+"Early+Middle Jurassic",12,"1.48658","0.92049","1.66716","0.18922"
+"Late Jurassic",55,"1.90562","1.69706","2.03383","0.08543"
+"Early Cretaceous",90,"2.07459","1.89940","2.20256","0.07994"
+"Late Cretaceous",48,"3.29112","2.85577","3.57044","0.18112"

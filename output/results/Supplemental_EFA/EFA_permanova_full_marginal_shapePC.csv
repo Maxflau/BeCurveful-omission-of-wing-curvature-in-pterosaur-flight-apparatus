@@ -1,0 +1,5 @@
+"Df","SumOfSqs","R2","F","p_value","Term","Factor","sig"
+10,0.00509467793993304,0.16034080893733,9.15261289049313,1e-04,"clade","Full marginal (shapePC)","***"
+6,0.000246192831213373,0.00774823417235333,0.7371442994295,0.6746,"Depositional","Full marginal (shapePC)",""
+6,0.000354348161776447,0.0111521221899727,1.06098023317521,0.385,"Palaeoenvironment","Full marginal (shapePC)",""
+9,0.00104334965697985,0.0328365266611602,2.08264729768635,0.0154,"Diet_combo","Full marginal (shapePC)","*"

@@ -1,0 +1,9 @@
+"factor","model","n","levels","df","R²","F_value","Z","p_value","p_adjusted_BH","significant"
+"clade","procD.pgls",211,11,10,"0.0127","0.258","-3.005",0.999,"0.9990",FALSE
+"Order","procD.pgls",211,2,1,"0.0033","0.690","0.049",0.479,"0.6286",FALSE
+"Diet.1","procD.pgls",211,7,6,"0.0356","1.254","0.774",0.22,"0.4400",FALSE
+"Diet.2","procD.pgls",211,5,4,"0.0149","0.781","-0.175",0.55,"0.6286",FALSE
+"Diet_combined","procD.pgls",211,15,14,"0.0666","0.999","0.244",0.408,"0.6286",FALSE
+"Depositional.settings.paleoenvironment","procD.pgls",211,8,7,"0.0516","1.577","1.416",0.075,"0.2000",FALSE
+"Environment","procD.pgls",211,8,7,"0.0694","2.162","2.132",0.015,"0.1200",FALSE
+"Period.Name","procD.pgls",211,6,5,"0.0477","2.054","1.529",0.064,"0.2000",FALSE
